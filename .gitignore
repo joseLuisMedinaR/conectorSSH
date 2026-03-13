@@ -1,0 +1,9 @@
+# Archivos de cach\Uffffffffe Python
+__pycache__/
+*.py[cod]
+dist
+build
+main.spec
+
+# Omitimos subir el ejecutable
+releases/

@@ -1,0 +1,14 @@
+customtkinter 
+python-nmap
+psutil
+pillow
+
+# =========================================================
+# En Windows hay que instalar:
+# =========================================================
+# https://nmap.org/download.html
+
+# =========================================================
+# PARA CREAR EL EJECUTABLE
+# =========================================================
+# pyinstaller --noconfirm --onefile --windowed --add-data "tools;tools" --icon tools/icon.ico proxmox_connector.py
